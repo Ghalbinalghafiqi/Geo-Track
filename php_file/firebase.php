@@ -1,8 +1,8 @@
 <?php
 // Firebase Database URL
-$firebaseUrl = "https://belajarkontrolrelay-default-rtdb.asia-southeast1.firebasedatabase.app/";
+$firebaseUrl = "URL_Firebase";
 // Firebase Secret or Server Key
-$firebaseSecret = "AIzaSyAu9_HoUhX7HdmHZvagzSOow64UhiZDpgQ";
+$firebaseSecret = "SERVER_KEY_FIREBASE";
 // Function to send data to Firebase
 function sendDataToFirebase($path, $data)
 {

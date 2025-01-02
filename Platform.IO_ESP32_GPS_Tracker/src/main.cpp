@@ -49,9 +49,9 @@
 #define STEP_MODE 4
 
 //--------------------------------------------------------------------------
-const String host_url = "http://geotracking.online/telegram.php";        // Host
-const String bot_token = "6570175654:AAGciJTy_x41tPnaNJaZu6xdL-1pEcxRaO0"; // Bot Key
-const String chat_id = "5260723107";                                       // Chat ID
+const String host_url = "HOST_URL";        // Host
+const String bot_token = "Token_bot"; // Bot Key
+const String chat_id = "IDBot";                                       // Chat ID
 // int maks_jarak = 20;                                                       // jarak maksimal alarm
 //--------------------------------------------------------------------------
 int thn, bln, tgl, jam, mnt, dtk, interval_loop;
